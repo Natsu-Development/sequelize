@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+.content {
+    width: 40%;
+    padding: 20px;
+}
+
+.content-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.add {
+    width: 60%;
+}
